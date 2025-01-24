@@ -2,7 +2,7 @@
 
 - 🌱 I am Working as a WordPress Developer With Experience in Theme Development, Plugin Development, Multi-Network Site,  Multi Language Site & Also have Expertise with different Page Builders Like Elementor, Beaver Builder, WP Bakery Visual Composer, Divi Builder, Thrive Builder.
 - 🔭 I’m Currently Learning about Gutenberg Custom Block Developement.
-- 📫 Reach me :-  **shailmehta25@gmail.com**
+- 📫 Reach me :- **shailmehta25@gmail.com**
 
 <h2 align="left">🌏 Find Me:</h2>
 <div align="left">
