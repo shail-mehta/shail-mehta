@@ -20,7 +20,7 @@
 <h2 align="left">📊 My GitHub Stats:</h2>
 
 <div align="left">
-     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=nightowl" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=nightowl" /></a>
- <a href=" https://streak-stats.demolab.com/?user=shail-mehta&theme=nightowl" target="_blank"><img height="180em" src="https://streak-stats.demolab.com/?user=shail-mehta&theme=nightowl" /></a>
+     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=algolia" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=algolia" /></a>
+ <a href=" https://streak-stats.demolab.com/?user=shail-mehta&theme=algolia" target="_blank"><img height="180em" src="https://streak-stats.demolab.com/?user=shail-mehta&theme=algolia" /></a>
 </div>
 
