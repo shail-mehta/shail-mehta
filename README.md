@@ -19,6 +19,9 @@
 
 <div align="left">
      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=algolia" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=algolia" /></a>
-
+     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=algolia" target="_blank"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shail-mehta&theme=algolia&theme=algolia" /></a>
 </div>
+
+     
+
 
