@@ -19,7 +19,7 @@
 
 <div>
      
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shail-mehta&theme=algolia)]
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shail-mehta&theme=algolia)
 
 </div>
 
