@@ -17,8 +17,10 @@
 
 <h2 align="left">📊 My GitHub Stats:</h2>
 
-<div align="left">
-     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=algolia" target="_blank"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=algolia" /></a>
+<div style="display:flex;">
+<img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&theme=algolia" />
+     
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shail-mehta&theme=algolia)](https://git.io/streak-stats)
 </div>
 
      
