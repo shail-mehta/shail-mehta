@@ -4,7 +4,6 @@
 
 - 📫 Reach me:- **shailmehta25@gmail.com**
 
-
 <h2 align="left">🌏 Find Me:</h2>
 <div align="left">
      
@@ -22,7 +21,3 @@
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shail-mehta&theme=algolia)
 
 </div>
-
-     
-
-
