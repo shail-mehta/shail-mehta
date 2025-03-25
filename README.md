@@ -1,6 +1,6 @@
 <h1 align="left">Hi I'm Shail Mehta 👋</h1>
 
-- 🌱 I am Working as a Sr. WordPress Developer With Experience in Theme Development, Block Theme Development,  Plugin Development, Multi-Network Site, Multi Language Site and Also have Expertise with different Page Builders Like Elementor, Beaver Builder, WP Bakery Visual Composer, Divi Builder and Thrive Builder, Fusion Builder and Bold Page Builder.
+- 🌱 I am Working as a Sr. WordPress Developer With Experience in Theme Development, Block Theme Development,  Plugin Development, Multi-Network Site, Multi Language Site and Also have Expertise with different Page Builders Like Elementor, Beaver Builder, WP Bakery Visual Composer, Divi Builder and Thrive Builder, Fusion Builder.
 
 - 📫 Reach me:- **shailmehta25@gmail.com**
 
