@@ -13,13 +13,3 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailmehta25@gmail.com)
 
 </div>
-
-<h2 align="left">📊 My GitHub Stats:</h2>
-
-<div>
-
-     
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shail-mehta&theme=algolia)
-
-
-</div>
