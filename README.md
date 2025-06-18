@@ -13,3 +13,6 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailmehta25@gmail.com)
 
 </div>
+<div class="">
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shail-mehta&theme=light)](https://git.io/streak-stats)
+</div>
