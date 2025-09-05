@@ -13,8 +13,11 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailmehta25@gmail.com)
 
 </div>
-<div class="">
+<div class="" style="display:flex;flex-wrap:wrap;">
   
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shail-mehta&theme=dark)](https://git.io/streak-stats)
 
+![Shail's Card](https://cardpress.us/card?username=shailu25&headerColor=191e23&subHeaderColor=82878c&nameColor=191e23&badgeLabelColor=23282d&foreground=ffffff&badges=true&header=true&refresh=false&link=true&avatar=true)
+
 </div>
+
