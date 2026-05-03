@@ -13,9 +13,3 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailmehta25@gmail.com)
 
 </div>
-<div>
-
-![Shail's Card](https://cardpress.us/card?username=shailu25&headerColor=191e23&subHeaderColor=82878c&nameColor=191e23&badgeLabelColor=23282d&foreground=ffffff&badges=true&header=true&refresh=false&link=true&avatar=true)
-
-</div>
-
