@@ -63,19 +63,6 @@ I enjoy contributing to the WordPress open-source ecosystem, particularly Gutenb
 - Twenty Twenty-Five theme contributions
 - Bug fixes, enhancements and code quality improvements
 
-🔗 [WordPress.org Profile](https://profiles.wordpress.org/shailu25/)
-
-🔗 [GitHub Repositories](https://github.com/shail-mehta?tab=repositories)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shail-mehta&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shail-mehta&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🔥 Contribution Streak
@@ -97,5 +84,5 @@ I enjoy contributing to the WordPress open-source ecosystem, particularly Gutenb
 </p>
 
 <p align="center">
-  <i>Building, contributing, and making WordPress better — one commit at a time. 🚀</i>
+  <i>Building, contributing, and making WordPress better - one commit at a time. 🚀</i>
 </p>
