@@ -15,33 +15,29 @@ With **9+ years of experience**, I specialize in building scalable WordPress sol
 - 🛠️ Advanced Custom Fields (ACF)
 - 🎨 Elementor, Beaver Builder, WPBakery, Divi, Thrive & Fusion Builder
 - 🚀 Active WordPress Core & Gutenberg contributor
-- 🎨 Contributed to Twenty Twenty-Four and Twenty Twenty-Five themes
+- 🎨 Contributed to Twenty Twenty-Four, Twenty Twenty-Five, and Ipsum themes
 - 📫 Email: **[shailmehta25@gmail.com](mailto:shailmehta25@gmail.com)**
 
 ---
 
-## 🌏 Find Me
+## 🌟 WordPress Contributions & Ecosystem Impact
+
+> Proud **WordPress Core Contributor** and **Gutenberg Contributor**, actively maintaining and improving the open-source web platform powering over 40% of the internet.
 
 <p align="left">
-  <a href="https://shail-mehta.github.io/">
-    <img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://profiles.wordpress.org/shailu25/">
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  </a>
-  <a href="https://in.linkedin.com/in/shailmehta25">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/shail-mehta">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:shailmehta25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/sponsors/shail-mehta">
-    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
-  </a>
+  <a href="https://profiles.wordpress.org/shailu25/"><img src="https://img.shields.io/badge/WordPress.org-Profile-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Profile" /></a>
+  <img src="https://img.shields.io/badge/Focus-Core%20%7C%20Gutenberg-0073AA?style=for-the-badge&logo=wordpress&logoColor=white" alt="Contribution Focus" />
+  <img src="https://img.shields.io/badge/Themes-TT4%20%7C%20TT5%20%7C%20Ipsum-3858E9?style=for-the-badge&logo=wordpress&logoColor=white" alt="Themes" />
 </p>
+
+| Area | Contribution Highlights |
+| :--- | :--- |
+| **WordPress Core** | Bug fixes, documentation patches, coding standard enhancements, and release props. |
+| **Gutenberg Editor** | Block editor improvements, Full Site Editing (FSE) refinement, and component testing. |
+| **Bundled Themes** | Contributed enhancements & styling refinements to **Twenty Twenty-Four**, **Twenty Twenty-Five**, and **Ipsum**. |
+| **Open Source** | Active pull request reviews, issue verification, and community collaboration. |
+
+👉 **[View My Official WordPress.org Contributor Profile & Badges ↗](https://profiles.wordpress.org/shailu25/)**
 
 ---
 
@@ -50,18 +46,6 @@ With **9+ years of experience**, I specialize in building scalable WordPress sol
 <p align="left">
   <img src="https://skillicons.dev/icons?i=wordpress,php,js,react,html,css,sass,mysql,git,github,vscode,docker" alt="Tech Stack" />
 </p>
-
----
-
-## 🌟 WordPress Contributions
-
-I enjoy contributing to the WordPress open-source ecosystem, particularly Gutenberg and WordPress Core.
-
-- WordPress Core contributions
-- Gutenberg block editor improvements
-- Twenty Twenty-Four theme contributions
-- Twenty Twenty-Five theme contributions
-- Bug fixes, enhancements and code quality improvements
 
 ---
 
@@ -83,6 +67,21 @@ I enjoy contributing to the WordPress open-source ecosystem, particularly Gutenb
   </picture>
 </p>
 
+---
+
+## 🌏 Find Me & Connect
+
+<p align="left">
+  <a href="https://shail-mehta.github.io/"><img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://profiles.wordpress.org/shailu25/"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /></a>
+  <a href="https://in.linkedin.com/in/shailmehta25"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/shail-mehta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:shailmehta25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/sponsors/shail-mehta"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
+</p>
+
+---
+
 <p align="center">
-  <i>Building, contributing, and making WordPress better - one commit at a time. 🚀</i>
+  <i>Building, contributing, and making WordPress better — one commit at a time. 🚀</i>
 </p>
