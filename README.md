@@ -1,7 +1,4 @@
 # 👋 Hi, I'm Shail Mehta
-
-### 🚀 Senior WordPress Developer | WordPress Core & Gutenberg Contributor
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=21759B&width=650&lines=Senior+WordPress+Developer;WordPress+Core+Contributor;Gutenberg+Contributor;Building+Modern+WordPress+Experiences" alt="Typing SVG" />
 </p>
