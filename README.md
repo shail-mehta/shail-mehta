@@ -8,6 +8,7 @@
 <h2 align="left">🌏 Find Me:</h2>
 <div align="left">
 
+[![Website](https://img.shields.io/badge/Website-purple?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shail-mehta.github.io/)
 [![image](https://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/shailu25/) 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shailmehta25)
 [![image](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shail-mehta)
