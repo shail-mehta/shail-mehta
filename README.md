@@ -29,7 +29,7 @@ With <strong>9+ years of experience</strong>, I specialize in building scalable 
 
 | Area | Contribution Highlights |
 | :--- | :--- |
-| **WordPress Core** | Bug fixes, documentation patches, coding standard enhancements, and release props. |
+| **WordPress Core** | Bug fixes, documentation patches, coding standard enhancements, and Patch Testing. |
 | **Gutenberg Editor** | Block editor improvements, Full Site Editing (FSE) refinement, and component testing. |
 | **Bundled Themes** | Contributed enhancements & styling refinements to **Twenty Twenty-Four**, **Twenty Twenty-Five**, and **Ipsum**. |
 | **Open Source** | Active pull request reviews, issue verification, and community collaboration. |
