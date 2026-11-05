@@ -90,13 +90,11 @@ I enjoy contributing to the WordPress open-source ecosystem, particularly Gutenb
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shail-mehta/shail-mehta/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shail-mehta/shail-mehta/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/shail-mehta/shail-mehta/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shail-mehta/shail-mehta/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/shail-mehta/shail-mehta/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://github.com/shail-mehta/shail-mehta/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
----
 
 <p align="center">
   <i>Building, contributing, and making WordPress better — one commit at a time. 🚀</i>
