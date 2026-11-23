@@ -12,7 +12,7 @@ With <strong>9+ years of experience</strong>, I specialize in building scalable 
 - 🛠️ Advanced Custom Fields (ACF)
 - 🎨 Elementor, Beaver Builder, WPBakery, Divi, Thrive & Fusion Builder
 - 🚀 Active WordPress Core & Gutenberg contributor
-- 🎨 Contributed to Twenty Twenty-Four, Twenty Twenty-Five, and Ipsum themes
+- 🎨 Contributed to Ipsum, Twenty Twenty-Five and Twenty Twenty-Four themes.
 - 📫 Email: **[shailmehta25@gmail.com](mailto:shailmehta25@gmail.com)**
 
 ---
